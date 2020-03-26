@@ -36,3 +36,31 @@
     -fx-background-insets: 0;
     -fx-background-radius: 1;
 }
+
+.root-pane {
+    -fx-background-color: #2b2b28;
+}
+
+.label {
+    -fx-font-size: 16px;
+    -fx-font-weight: bolder;
+    -fx-text-fill: #f1d6ab;
+}
+
+#title-text {
+    -fx-font-size: 40px;
+    -fx-font-family: "Arial Rounded MT Bold";
+    -fx-fill: #e3b04b;
+}
+
+#actionTarget {
+    -fx-fill: #412006;
+    -fx-font-weight: bold;
+}
+
+.button {
+    -fx-text-fill: #2b2b28;
+    -fx-background-color: #e3b04b;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+}
